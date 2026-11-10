@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hrlplumbing.com/sitemap.xml
